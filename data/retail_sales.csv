@@ -1,0 +1,11 @@
+order_id,customer_name,product_name,quantity,price
+1,John Doe,Laptop,1,75000
+2,Alice Smith,Mouse,2,500
+3,Bob Johnson,Keyboard,1,1500
+4,Carol White,Monitor,1,12000
+5,David Brown,Headphones,2,2500
+6,Eva Green,Tablet,1,30000
+7,Frank Black,USB Cable,3,300
+8,Grace Hall,Webcam,1,4000
+9,Henry King,Printer,1,8000
+10,Ivy Scott,Desk Chair,1,7000
