@@ -139,8 +139,9 @@ airflow dags trigger retail_sales_etl
 
 -- Execution of all tasks (success) state
 
-<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/83c0b4b3-31bf-4c95-95cf-3669d5a12f61" />
+<img width="1920" height="1080" alt="graph" src="https://github.com/user-attachments/assets/86457553-78a0-4f60-9af0-647ac1d39e57" />
 
+---
 ## Author
 
 Paul  
