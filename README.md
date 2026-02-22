@@ -134,6 +134,8 @@ airflow dags trigger retail_sales_etl
 - XCom usage between tasks
 
 ---
+Special thanks to @gowthamdataengineer for guidance
+---
 
 ## Project Screenshot
 
